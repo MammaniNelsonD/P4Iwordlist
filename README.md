@@ -1,0 +1,2 @@
+# P4Iwordlist
+GENERADOR DE WORDLIST PARA FUERZA BRUTA P4Iwordlist.py 1.2v
